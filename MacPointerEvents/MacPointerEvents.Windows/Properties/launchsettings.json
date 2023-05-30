@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"MacPointerEvents.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"MacPointerEvents.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}
